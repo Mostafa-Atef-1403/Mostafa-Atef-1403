@@ -5,6 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-atef-1403&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-atef-1403" /> </p>
 
+<h3 align="left">About me:</h3>
+<ul algin="left">
+<li>🔭 I’m currently working on travelling-website</li>
+<li>🌱 I’m currently learning Typescript and Next.js</li>
+<li><ul>💬 Ask me about:
+  <li>HTML, CSS, Javascript, React, Tailwind CSS.</li>
+  <li>Debugging, UI behavior, Problem solving</li>
+</ul></li>
+<li>⚡ Fun fact: I learn faster by building real projects, not with tutorials.</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mostafa97253130) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moatefelbanby123@gmail.com) 
