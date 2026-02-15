@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa-atef-1403&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-atef-1403" /> </p>
 
-<h3 align="left">About me:</h3>
+<h3 align="left">🧑🏻‍💻 About me:</h3>
 <ul algin="left">
-<li>🔭 I’m currently working on travelling-website</li>
-<li>🌱 I’m currently learning Typescript and Next.js</li>
+<li>🔭 I’m currently working on <b>travelling-website</b></li>
+<li>🌱 I’m currently learning <b>Typescript</b> and <b>Next.js</b></li>
 <li><ul>💬 Ask me about:
   <li>HTML, CSS, Javascript, React, Tailwind CSS.</li>
   <li>Debugging, UI behavior, Problem solving</li>
@@ -16,7 +16,7 @@
 <li>⚡ Fun fact: I learn faster by building real projects, not with tutorials.</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤙🏼 Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-atef-420633288" target="blank">
