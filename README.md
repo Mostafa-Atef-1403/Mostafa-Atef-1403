@@ -11,7 +11,7 @@
 </b></a></li>
 <li>🌱 I’m currently learning <b>Typescript</b> and <b>Next.js</b></li>
 <li><ul>💬 Ask me about:
-  <li>HTML, CSS, Javascript, React, Tailwind CSS.</li>
+  <li> React, Nextjs, Typescript, Tailwind CSS, Javascript, HTML, CSS.</li>
   <li>Debugging, UI behavior, Problem solving</li>
 </ul></li>
 <li>⚡ Fun fact: I learn faster by building real projects, not with tutorials.</li>
